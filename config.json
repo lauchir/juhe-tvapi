@@ -520,6 +520,11 @@
             "name": "心魔📚在线·❤ikun资源",
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
             "detail": "https://ikunzyapi.com"
+        },
+        "请勿贩卖📚在线_采集集合": {
+            "name": "请勿贩卖📚在线·采集集合",
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "detail": "http://zhangqun1818.serv00.net"
         }
     },
     "sites": [
@@ -1454,6 +1459,15 @@
             "key": "心魔📚在线_csp_xml_ikun",
             "name": "心魔📚在线·❤ikun资源",
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "请勿贩卖📚在线_采集集合",
+            "name": "请勿贩卖📚在线·采集集合",
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
