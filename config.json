@@ -101,11 +101,6 @@
             "api": "https://jyzyapi.com/provide/vod",
             "detail": "https://jyzyapi.com"
         },
-        "aidan": {
-            "name": "爱蛋资源",
-            "api": "https://lovedan.net/api.php/provide/vod",
-            "detail": "https://lovedan.net"
-        },
         "moduzy": {
             "name": "魔都影视",
             "api": "https://www.moduzy.com/api.php/provide/vod",
@@ -310,11 +305,6 @@
             "name": "🎬金鹰点播",
             "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
             "detail": "https://jyzyapi.com"
-        },
-        "b4d4414ba19c27a00bf907d34b47bc3d": {
-            "name": "1-艾旦",
-            "api": "https://www.lovedan.net/api.php/provide/vod/",
-            "detail": "https://www.lovedan.net"
         },
         "730acd683fc317fa1a584e5613e727f0": {
             "name": "2-非凡",
@@ -540,6 +530,11 @@
             "name": "心魔📚在线·❤ikun资源",
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
             "detail": "https://ikunzyapi.com"
+        },
+        "请勿贩卖📚在线_采集集合": {
+            "name": "请勿贩卖📚在线·采集集合",
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "detail": "http://zhangqun1818.serv00.net"
         }
     },
     "sites": [
@@ -718,15 +713,6 @@
             "key": "jiangyu",
             "name": "鲸鱼资源",
             "api": "https://jyzyapi.com/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "aidan",
-            "name": "爱蛋资源",
-            "api": "https://lovedan.net/api.php/provide/vod",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -1096,15 +1082,6 @@
             "key": "jinyingzy.com",
             "name": "🎬金鹰点播",
             "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "b4d4414ba19c27a00bf907d34b47bc3d",
-            "name": "1-艾旦",
-            "api": "https://www.lovedan.net/api.php/provide/vod/",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -1510,6 +1487,15 @@
             "key": "心魔📚在线_csp_xml_ikun",
             "name": "心魔📚在线·❤ikun资源",
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "请勿贩卖📚在线_采集集合",
+            "name": "请勿贩卖📚在线·采集集合",
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
