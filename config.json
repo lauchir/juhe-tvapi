@@ -101,11 +101,6 @@
             "api": "https://jyzyapi.com/provide/vod",
             "detail": "https://jyzyapi.com"
         },
-        "aidan": {
-            "name": "爱蛋资源",
-            "api": "https://lovedan.net/api.php/provide/vod",
-            "detail": "https://lovedan.net"
-        },
         "moduzy": {
             "name": "魔都影视",
             "api": "https://www.moduzy.com/api.php/provide/vod",
@@ -310,11 +305,6 @@
             "name": "🎬金鹰点播",
             "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
             "detail": "https://jyzyapi.com"
-        },
-        "b4d4414ba19c27a00bf907d34b47bc3d": {
-            "name": "1-艾旦",
-            "api": "https://www.lovedan.net/api.php/provide/vod/",
-            "detail": "https://www.lovedan.net"
         },
         "730acd683fc317fa1a584e5613e727f0": {
             "name": "2-非凡",
@@ -724,15 +714,6 @@
             "filterable": 1
         },
         {
-            "key": "aidan",
-            "name": "爱蛋资源",
-            "api": "https://lovedan.net/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "moduzy",
             "name": "魔都影视",
             "api": "https://www.moduzy.com/api.php/provide/vod",
@@ -1096,15 +1077,6 @@
             "key": "jinyingzy.com",
             "name": "🎬金鹰点播",
             "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "b4d4414ba19c27a00bf907d34b47bc3d",
-            "name": "1-艾旦",
-            "api": "https://www.lovedan.net/api.php/provide/vod/",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
